@@ -1,0 +1,4 @@
+under_wave_1366x768.jpg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+under_wave.jpg filter=lfs diff=lfs merge=lfs -text
