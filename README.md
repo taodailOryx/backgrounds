@@ -1,2 +1,2 @@
 # backgrounds
-Just some backgrounds for a lock screen slideshow. Nothing to see here; move along.
+Just some nature backgrounds for a lock screen slideshow. Nothing to see here; move along.
